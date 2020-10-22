@@ -1,9 +1,9 @@
-## lakshya90.github.io
+## naveen.github.io
 ### Step 1
-#### git clone https://github.com/lakshya90/lakshya90.github.io.git
+#### git clone https://github.com/havalappa/naveen.github.io.git
 
 ### Step 2
-#### 1. Replace all “Lakshya Sivaramakrishnan” with your name. 
+#### 1. Replace all “Naveen Kumar H” with your name. 
 #### 2. Add two of your pictures for background image and profile picture.
 #### 3. Add your relevant links to LinkedIn, Twitter and Github.
 #### 4. Edit your details in About, Resume, Testimonials and Contact section.
